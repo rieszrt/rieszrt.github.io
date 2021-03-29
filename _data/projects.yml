@@ -1,16 +1,40 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Canberra Dating Scene
+- project: Canberra Dating Scene (click to see demo)
+  role: Solo project
+  duration: 2021
+  url: https://tomstinder.herokuapp.com/
+  description: What is the Dating scene like in Canberra? Find people you know and statistics about interests of Canberra's youth.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Instagram
+- project: Instagram DB (click to see demo)
+  role: Solo project
+  duration: 2020
+  url: https://insta-intel.herokuapp.com/
+  description: The absence of official instagram analytics leaves oppurtunities for us to create our own ML models. With a database of over 10 million instagram accounts, I have created many useful dashboards that could be of interest to businesses. 
+
+# chessvision.ai
+- project: chessvision.ai
+  role: Collaboration
+  duration: Present
+  url: http://chessvision.ai
+  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
+
+# Sports Betting 
+- project: Sports betting fund
+  role: Collaboration
+  duration: 2017-2019
+  url: http://chessvision.ai
+  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
+
+
+#Create custom pages in another folder? just html with demo of the project and nothing else.
+
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.

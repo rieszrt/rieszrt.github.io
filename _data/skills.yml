@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: I have several years of experience leading the ANU Data science society. From public speaking, to mentoring, to coordination of people and events.
 
 # Communications strategy
 - skill: Communications strategy
   description: Content and marketing strategy,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Web Design with Jekyll
+- skill: Web Design
+  description: Front-end web development for the ANU Datascience society and Vietnamese Student's society using Jekyll.
