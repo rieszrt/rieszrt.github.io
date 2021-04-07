@@ -1,10 +1,16 @@
 # Recognitions
-- award: Microsoft News
-  organization: Microsoft
-  year: 2021
-  summary: Discovered a vulnerability in the Microsoft News app on the Android App store.
+- award: Reference Letter
+  organization: Dr Pierre Portal 
+  year: pierre.portal@anu.edu.au
+  summary: For my Referral letter, please contact Dr Pierre Portal, lecturer in the Analysis (harmonic,functional, and/or stochastic) of partial differential equations at ANU. 
 
-- award: Beam e Scooter Sharing
-  organization: Beam
-  year: 2021
-  summary: Discovered a vulnerability in the Beam Scooter app to start and stop and scooter for free.
+# # Recognitions
+# - award: Microsoft News
+#   organization: Microsoft
+#   year: 2021
+#   summary: Discovered a vulnerability in the Microsoft News app on the Android App store.
+
+# - award: Beam e Scooter Sharing
+#   organization: Beam
+#   year: 2021
+#   summary: Discovered a vulnerability in the Beam Scooter app to start and stop and scooter for free.

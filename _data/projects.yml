@@ -8,8 +8,15 @@
   url: https://tomstinder.herokuapp.com/
   description: What is the Dating scene like in Canberra? Find people you know and statistics about interests of Canberra's youth.
 
+# github
+- project: Github Database (click to see demo)
+  role: Solo project
+  duration: 2021
+  url: https://tomsgithub.herokuapp.com/
+  description: A database of over 1.3 million github users, offering insights into software developers and companies around the world.
+
 # Instagram
-- project: Instagram DB (click to see demo)
+- project: Instagram Database (click to see demo)
   role: Solo project
   duration: 2020
   url: https://insta-intel.herokuapp.com/
@@ -22,13 +29,19 @@
   url: http://chessvision.ai
   description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
 
-# Sports Betting 
-- project: Sports betting fund
-  role: Collaboration
-  duration: 2017-2019
-  url: http://chessvision.ai
-  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
+# Bayesian OCR:
+- project: Bayesian Optical character recognition
+  role: Solo Project
+  duration: 2017
+  url: https://u5772367.wixsite.com/anudatascience/post/bayesian-ocr
+  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting.
 
+#Covid
+- project: Covid modelling
+  role: Toy Model
+  duration: 2017-2019
+  url: https://u5772367.wixsite.com/anudatascience/post/covid-19-modelling
+  description: SEIR model for covid at the beginning of the pandemic.
 
 #Create custom pages in another folder? just html with demo of the project and nothing else.
 
