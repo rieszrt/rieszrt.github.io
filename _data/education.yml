@@ -11,8 +11,8 @@
   year: 2021 &mdash; Present
   summary: Pathway to a free Computer Science Degree.
 
-# EdX
-- degree: Data Visualization
-  uni: Edx IBM
-  year: 2021
-  summary: Online Course on Data Visualisation through EdX
+## EdX
+#- degree: Data Visualization
+#  uni: Edx IBM
+#  year: 2021
+#  summary: Online Course on Data Visualisation through EdX

@@ -1,12 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Uniswap V3 Exchange Library
+- project: Uniswap V3 Library
+  role: Javascript, Web3, Blockchain, Solidity, Python
+  duration: 2021
+  url: https://github.com/rieszrt/py-uniswap-v3
+  description: Uniswap is a popular decentralised exchange on the ethereum blockchange with over $350 Billion worth of liquidity.
+    On the release of their v3 protocol (5/5/21), I wrote a python library for interacting with its new protocol before trading there.
+
 # Canberra Dating Scene
 - project: Canberra Dating Scene (click to see demo)
-  role: Solo project
+  role: R, Python, AWS
   duration: 2021
   url: https://tomstinder.herokuapp.com/
   description: What is the Dating scene like in Canberra? Find people you know and statistics about interests of Canberra's youth.
+
+# Housing Model
+- project: Housing Model
+  role: Python
+  duration: 2021
+  url: https://github.com/rieszrt/personal-finance
+  description: Analysis of Canberra's Housing market. A collaberative attempt at Financial modelling.
 
 # github
 - project: Github Database (click to see demo)
@@ -20,25 +35,25 @@
   role: Solo project
   duration: 2020
   url: https://insta-intel.herokuapp.com/
-  description: The absence of official instagram analytics leaves oppurtunities for us to create our own ML models. With a database of over 10 million instagram accounts, I have created many useful dashboards that could be of interest to businesses. 
+  description: I have scraped instagram for useful demographic data.
 
 # chessvision.ai
 - project: chessvision.ai
-  role: Collaboration
+  role: Python
   duration: Present
   url: http://chessvision.ai
   description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
 
 # Bayesian OCR:
 - project: Bayesian Optical character recognition
-  role: Solo Project
+  role: Python
   duration: 2017
   url: https://u5772367.wixsite.com/anudatascience/post/bayesian-ocr
   description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting.
 
 #Covid
 - project: Covid modelling
-  role: Toy Model
+  role: Python
   duration: 2017-2019
   url: https://u5772367.wixsite.com/anudatascience/post/covid-19-modelling
   description: SEIR model for covid at the beginning of the pandemic.

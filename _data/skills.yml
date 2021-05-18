@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading the ANU Data science society. From public speaking, to mentoring, to coordination of people and events.
+# Technology
+- skill: Programming languages (See projects)
+  description: See my projects for demonstration of my skill in the following technologies.
+    <br /><b>Blockchain:</b>
+    <br />1.Solidity
+    <br />2. Web3
+    <br /><b>Data Science:</b>
+    <br />1. Python
+    <br />2. R
+    <br /><b>Back End:</b>
+    <br />1. SQL
+    <br />2. Flask
+    <br /><b>Front End:</b>
+    <br />1. Javascript
+    <br />2. React
+
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Web Design with Jekyll
-- skill: Web Design
-  description: Front-end web development for the ANU Datascience society and Vietnamese Student's society using Jekyll.
+- skill: President of ANU data science society
+  description: I have several years of experience leading the ANU Data science society. From public speaking, to mentoring, to coordination of people and events.
