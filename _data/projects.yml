@@ -7,42 +7,23 @@
   duration: 2021
   url: https://github.com/rieszrt/py-uniswap-v3
   description: Uniswap is a popular decentralised exchange on the ethereum blockchange with over $350 Billion worth of liquidity.
-    On the release of their v3 protocol (5/5/21), I wrote a python library for interacting with its new protocol before trading there.
-
-# Canberra Dating Scene
-- project: Canberra Dating Scene (click to see demo)
-  role: R, Python, AWS
-  duration: 2021
-  url: https://tomstinder.herokuapp.com/
-  description: What is the Dating scene like in Canberra? Find people you know and statistics about interests of Canberra's youth.
+    On the release of their v3 protocol (5/5/21), I was first to write a public python library for interacting with its smart contracts.
 
 # Housing Model
 - project: Housing Model
   role: Python
   duration: 2021
   url: https://github.com/rieszrt/personal-finance
-  description: Analysis of Canberra's Housing market. A collaberative attempt at Financial modelling.
+  description: Analysis of Canberra's Housing market. A collaberative project in Financial modelling.
 
-# github
-- project: Github Database (click to see demo)
-  role: Solo project
-  duration: 2021
-  url: https://tomsgithub.herokuapp.com/
-  description: A database of over 1.3 million github users, offering insights into software developers and companies around the world.
 
-# Instagram
-- project: Instagram Database (click to see demo)
-  role: Solo project
+# Occupation analysis
+- project: Predicting user Occupation through Instagram posts
+  role: R, Python, SQL
   duration: 2020
-  url: https://insta-intel.herokuapp.com/
-  description: I have scraped instagram for useful demographic data.
-
-# chessvision.ai
-- project: chessvision.ai
-  role: Python
-  duration: Present
-  url: http://chessvision.ai
-  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
+  url:
+  description: Natural Language processing to classify occupation of Canberran instagram users. Trained on
+    instagram posts scraped with python. Modelling and visualization completed with R.
 
 # Bayesian OCR:
 - project: Bayesian Optical character recognition
@@ -51,18 +32,53 @@
   url: https://u5772367.wixsite.com/anudatascience/post/bayesian-ocr
   description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting.
 
-#Covid
-- project: Covid modelling
+#
+## Occupation analysis
+#- project: Runescape Bot
+#  role: Java, SQL
+#  duration: 2019
+#  url:
+#  description: An Injection bot for MMOORPG Runescape.
+
+## Canberra Dating Scene
+#- project: Sports Betting
+#  role: R, Python, AWS
+#  duration: 2021
+#  url:
+#  description: Designing str
+
+# github
+- project: Sports Market arbitrage
+  role: R, Python
+  duration: 2021
+  url: files/slideshow.html
+  description: A scraper of live sports data across 3 countries and 26 betting sites, displaying live profitable strategies in a dashboard.
+
+## github
+#- project: Github Database (click to see demo)
+#  role: Solo project
+#  duration: 2021
+#  url: https://tomsgithub.herokuapp.com/
+#  description: A database of over 1.3 million github users, offering insights into software developers and companies around the world.
+
+# Instagram
+- project: Kpop posts by country
+  role: Solo project
+  duration: 2020
+  url: https://insta-intel.herokuapp.com/
+  description: Location tags of instagram posts by fans of pop bands.
+
+# chessvision.ai
+- project: Chessvision.ai
   role: Python
-  duration: 2017-2019
-  url: https://u5772367.wixsite.com/anudatascience/post/covid-19-modelling
-  description: SEIR model for covid at the beginning of the pandemic.
+  duration: 2021
+  url: http://chessvision.ai
+  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
 
-#Create custom pages in another folder? just html with demo of the project and nothing else.
+##Covid
+#- project: Covid modelling
+#  role: Python
+#  duration: 2017-2019
+#  url: https://u5772367.wixsite.com/anudatascience/post/covid-19-modelling
+#  description: SEIR model for covid at the beginning of the pandemic.
 
-# # Springfield Community Outreach Group
-# - project: Springfield Community Outreach Group
-#   role: Co-Founder & Organizer
-#   duration: 2007 &mdash; Present
-#   # url: "#"
-#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.

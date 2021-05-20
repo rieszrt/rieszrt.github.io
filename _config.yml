@@ -1,6 +1,9 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Tomson Qin"
+description: "Tomson Qin's resume and projects"
+
+# Google Analytics
+google_analytics: G-34SHKZ2GT0
 
 # Build settings
 markdown: kramdown
@@ -23,8 +26,11 @@ resume_contact_address:         ""
 resume_header_contact_info:     "Tomson.qin@yandex.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>My name is Tom and I'm a statistics and economics graduate from the Australian National University. My skills include Mathematics, Statistical modelling, Full Stack and BlockChain development.
-Im active in the crypto space, both as a trader and developer, writing the first library for Uniswap V3 smart contracts upon release.
+resume_header_intro: "<p>My name is Tom and I'm a statistics and economics graduate from the Australian National University.
+My skills include Mathematics, Statistical modelling, Full Stack and BlockChain development.
+The projects you see below demonstrate my ability to collaborate with others and to engage with new technologies.
+I can work across the entire data pipeline, from scraping and cleaning the data, to creating both the front and back end
+infrastructure to present my analysis.
 </p>"
 
 # use "yes" to display the email contact button,
