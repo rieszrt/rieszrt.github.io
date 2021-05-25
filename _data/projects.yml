@@ -1,6 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# EY World DataScience Competition
+- project: Ey World DataScience Competition
+  role: DataCube, Satelite Image and GeoSpatial Data
+  duration: 2021
+  url: https://github.com/rieszrt/Ey-World-Data-Challenge
+  description: An illustration of the Model I used for the 2021 BushFire Prediction Challenge.
+
+# Seek Python
+- project: Seek Python Library
+  role: Python
+  duration: 2021
+  url: https://github.com/rieszrt/SeekPy
+  description: A Python Library for Parallel Scraping and interacting with Seek, an Australian website for companies to post listings.
+
 # Uniswap V3 Exchange Library
 - project: Uniswap V3 Library
   role: Javascript, Web3, Blockchain, Solidity, Python
@@ -15,7 +29,6 @@
   duration: 2021
   url: https://github.com/rieszrt/personal-finance
   description: Analysis of Canberra's Housing market. A collaberative project in Financial modelling.
-
 
 # Occupation analysis
 - project: Predicting user Occupation through Instagram posts
