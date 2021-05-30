@@ -1,12 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+
+# EY World DataScience Competition
+- project: Social Media Modelling
+  role: Python, Appium, Docker, SQL
+  duration: 2021
+  url:
+  description: Gathering and Modelling of Social Media data from Instagram, TikTok, Facebook and other sources to identify the development of trends, communities and demographics. These models can be used to create innovative ways to cater to a new, digital-savvy generation of shoppers.
+
 # EY World DataScience Competition
 - project: Ey World DataScience Competition
   role: DataCube, Satelite Image and GeoSpatial Data
   duration: 2021
   url: https://github.com/rieszrt/Ey-World-Data-Challenge
-  description: An illustration of the Model I used for the 2021 BushFire Prediction Challenge.
+  description: Using Machine Vision, Simulations and other techniques to Model Geo spatial data and satellite images to predict the presence and spread of Australian Bushfires.
 
 # Seek Python
 - project: Seek Python Library
@@ -28,7 +36,8 @@
   role: Python
   duration: 2021
   url: https://github.com/rieszrt/personal-finance
-  description: Analysis of Canberra's Housing market. A collaberative project in Financial modelling.
+  description: Analysis of Canberra's Housing market to compare the growth of different real estate investment strategies. The model considers, various types of investment properties, local tax laws, changes in exogenous parameters and alternative investments.
+
 
 # Occupation analysis
 - project: Predicting user Occupation through Instagram posts
@@ -74,12 +83,12 @@
 #  url: https://tomsgithub.herokuapp.com/
 #  description: A database of over 1.3 million github users, offering insights into software developers and companies around the world.
 
-# Instagram
-- project: Kpop posts by country
-  role: Solo project
-  duration: 2020
-  url: https://insta-intel.herokuapp.com/
-  description: Location tags of instagram posts by fans of pop bands.
+## Instagram
+#- project: Kpop posts by country
+#  role: Solo project
+#  duration: 2020
+#  url: https://insta-intel.herokuapp.com/
+#  description: Location tags of instagram posts by fans of pop bands.
 
 # chessvision.ai
 - project: Chessvision.ai
