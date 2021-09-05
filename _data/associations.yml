@@ -1,12 +1,16 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: RLE
+  role: Co Founder
+  year: 2021
+  url:
+  summary: Our business RLE buys and sells second hand items. I created the web scrapers, language and pricing models and software to plan pickup routes efficiently.
 
 - organization: ANU Data Science Society
   role: President
   year: 2020
   url:
   summary: I lead workshops, collaborations and showed initiative in leadership after our last president Geoffrey Liu left.
-
 
 - organization: ANU Data Science Society
   role: Treasurer

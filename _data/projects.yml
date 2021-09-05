@@ -2,19 +2,26 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 
-# EY World DataScience Competition
-- project: Social Media Modelling
-  role: Python, Appium, Docker, SQL
+# GovHack
+- project: Gov Hack - 40 hour challenge
+  role: R Shiny
   duration: 2021
-  url:
-  description: Gathering and Modelling of Social Media data from Instagram, TikTok, Facebook and other sources to identify the development of trends, communities and demographics. These models can be used to create innovative ways to cater to a new, digital-savvy generation of shoppers.
+  url: https://github.com/miktab/GovHack2021
+  description: Implemented 2 protocols to give participants a provably safe way to respond truthfully to surveys without relying on a mere promise of anonymity.
+
+# Seek Python
+#- project: Classification and Pricing Model
+#  role: RLE
+#  duration: 2021
+#  url: https://github.com/miktab/RLE
+#  description: A model to classify and price recurring second hand items based on their product description.
 
 # EY World DataScience Competition
-- project: Ey World DataScience Competition
-  role: DataCube, Satelite Image and GeoSpatial Data
-  duration: 2021
-  url: https://github.com/rieszrt/Ey-World-Data-Challenge
-  description: Using Machine Vision, Simulations and other techniques to Model Geo spatial data and satellite images to predict the presence and spread of Australian Bushfires.
+#- project: Ey World DataScience Competition
+#  role: DataCube, Satelite Image and GeoSpatial Data
+#  duration: 2021
+#  url: https://github.com/rieszrt/Ey-World-Data-Challenge
+#  description: Using Machine Vision, Simulations and other techniques to Model Geo spatial data and satellite images to predict the presence and spread of Australian Bushfires.
 
 # Seek Python
 - project: Seek Python Library
@@ -40,12 +47,12 @@
 
 
 # Occupation analysis
-- project: Predicting user Occupation through Instagram posts
-  role: R, Python, SQL
-  duration: 2020
-  url:
-  description: Natural Language processing to classify occupation of Canberran instagram users. Trained on
-    instagram posts scraped with python. Modelling and visualization completed with R.
+#- project: Predicting user Occupation through Instagram posts
+#  role: R, Python, SQL
+#  duration: 2020
+#  url:
+#  description: Natural Language processing to classify occupation of Canberran instagram users. Trained on
+#    instagram posts scraped with python. Modelling and visualization completed with R.
 
 # Bayesian OCR:
 - project: Bayesian Optical character recognition
@@ -72,7 +79,7 @@
 # github
 - project: Sports Market arbitrage
   role: R, Python
-  duration: 2021
+  duration: 2019
   url: files/slideshow.html
   description: A scraper of live sports data across 3 countries and 26 betting sites, displaying live profitable strategies in a dashboard.
 
@@ -83,19 +90,12 @@
 #  url: https://tomsgithub.herokuapp.com/
 #  description: A database of over 1.3 million github users, offering insights into software developers and companies around the world.
 
-## Instagram
-#- project: Kpop posts by country
-#  role: Solo project
-#  duration: 2020
-#  url: https://insta-intel.herokuapp.com/
-#  description: Location tags of instagram posts by fans of pop bands.
-
 # chessvision.ai
-- project: Chessvision.ai
-  role: Python
-  duration: 2021
-  url: http://chessvision.ai
-  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
+#- project: Chessvision.ai
+#  role: Python
+#  duration: 2021
+#  url: http://chessvision.ai
+#  description: Using a paper I wrote on employing Bayesian inference to significantly improve existing Optical Character Recognition algorithms for reading chess player’s handwriting, Pawel Kacprzak and I worked on digitising chess resources.
 
 ##Covid
 #- project: Covid modelling

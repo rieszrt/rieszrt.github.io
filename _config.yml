@@ -26,12 +26,9 @@ resume_contact_address:         ""
 resume_header_contact_info:     "Tomson.qin@yandex.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>My name is Tom and I'm a statistics and economics graduate from the Australian National University.
-My skills include Mathematics, Statistical modelling, Full Stack and BlockChain development.
-The projects you see below demonstrate my ability to collaborate with others and to engage with new technologies.
-I can work across the entire data pipeline, from scraping and cleaning the data, to creating both the front and back end
-infrastructure to present my analysis.
-</p>"
+resume_header_intro: "<p>My name is Tom and I'm a statistics and economics graduate from the Australian National University. </p>
+<p>I am currently working as a Statistician in Melbourne and as a co founder in a tech business on the side.</p>
+<p>The projects you see below is the culmination of my interests in statistics and programming coming together.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -41,7 +38,7 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      false
+resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          false
@@ -53,14 +50,13 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/rieszrt"
-  resume_twitter_url:           "http://twitter.com/Tom60231971"
+  resume_github_url:            "https://github.com/miktab"
+#  resume_twitter_url:           "http://twitter.com/Tom60231971"
   resume_dribbble_url:          "http://app.revelian.com/reporting/feedback.cfm?id=282F2DFFCB48B6EAE2C1B1F841E0FB00B14BF7DA1954ACED410AC65EC7CEDFA09AD2A9B5"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/tomson-qin-43bb44190"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "files/resume.pdf"
-  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
