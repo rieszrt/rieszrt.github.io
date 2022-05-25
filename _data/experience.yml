@@ -2,17 +2,14 @@
 # VP of Global Communications
 #Statistician Data Analyst - Graduate Development Program
 - company: FIS
-  position: Statistician Data Analyst
+  position: Statistician / Analyst
   duration: Present
-  summary: FIS is an American Fortune 500 company which offers financial products and services.
-    <br>My role involves:<ul>
-    <li>Using Big Data and splunk to create reports of FIS Credit Card and Transactions services.</li>
-    <li>LAMP Stack Webserver Development and migration.</li>
-    <li>Creating Data Visuals, Dashboards and reports for our clients HSBC and NAB.</li>
-    <li>Technologies used - Splunk, PHP, SQL, Apache, Javascript, Jira.</li>
+  summary: FIS is a Fortune 500 Fintech and the largest processing and payments company in the world.
+    <li>Creating Data Visuals, Dashboards and reports for our clients.</li>
+    <li>Regression modelling and hypothesis testing on 60% of all Australian retail transactions using Splunk, Python and R.</li>
+    <li>Received annual award for enhancement and update of a Linux-Apache-MySQL-PHP application under Veracode and PCI DSS Controls.</li>
     </ul>
 
-## Director of Digital Stratgy
 #- company: United Nations Human Rights Council
 #  position: Director of Digital Strategy
 #  duration:  Jun, 2010 &mdash; Sept, 2013

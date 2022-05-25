@@ -4,7 +4,7 @@
 
 # GovHack
 - project: Gov Hack - 40 hour challenge
-  role: R Shiny
+  role: R Shiny, Python, Javascript
   duration: 2021
   url: https://github.com/miktab/GovHack2021
   description: Implemented 2 protocols to give participants a provably safe way to respond truthfully to surveys without relying on a mere promise of anonymity.

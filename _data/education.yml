@@ -1,15 +1,20 @@
 # Degree
-- degree: Bachelor of Statistics and Economics.
+- degree: Bachelor of Statistics and Economics
   uni: Australian National University
   year: 2015 &mdash; 2020
   summary: Specialised in mathematical Analysis and Majored in Theoretical Statistics.
 
+- degree: Master of Mathematics
+  uni: Monash University
+  year: 2022 &mdash; Present
+  summary: Specialised in stochastic Processes
+
 # OSSU
-- degree: Computer Scence
-  url: http://chessvision.ai
-  uni: Open Society University
-  year: 2021 &mdash; Present
-  summary: Pathway to a free Computer Science Degree.
+#- degree: Computer Scence
+#  url: http://chessvision.ai
+#  uni: Open Society University
+#  year: 2021 &mdash; Present
+#  summary: Pathway to a free Computer Science Degree.
 
 ## EdX
 #- degree: Data Visualization

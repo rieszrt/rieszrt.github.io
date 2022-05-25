@@ -17,13 +17,13 @@ resume_name:                    "Tom H. Qin"
 resume_title:                   "ANU Graduate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "tomson.qin@yandex.com"
+resume_contact_email:           "tomqin89@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "0435925505"
 resume_contact_address:         ""
 
-resume_header_contact_info:     "Tomson.qin@yandex.com"
+resume_header_contact_info:     "tomqin89@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>My name is Tom and I'm a statistics and economics graduate from the Australian National University. </p>
